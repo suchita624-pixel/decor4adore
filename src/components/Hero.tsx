@@ -13,8 +13,8 @@ export default function Hero({ onOpenConsultation }: HeroProps) {
       {/* Immersive Background Image with Warm Ambient Gradient Overlays */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2000&q=85"
-          alt="Warm Ambient Luxury Living Room Interior"
+          src="/projects/project_lounge_salon1.jpg"
+          alt="Warm Ambient Luxury Living Lounge by Decor 4 Adore"
           fill
           priority
           className="object-cover object-center brightness-[0.38] scale-105 transition-transform duration-1000 ease-out"
@@ -119,8 +119,8 @@ export default function Hero({ onOpenConsultation }: HeroProps) {
               <div className="relative rounded-3xl overflow-hidden p-1 bg-gradient-to-br from-white/15 via-white/5 to-white/0 shadow-2xl backdrop-blur-xl">
                 <div className="relative rounded-[22px] overflow-hidden bg-[#161214] aspect-[4/5]">
                   <Image
-                    src="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1000&q=85"
-                    alt="Luxury Interior Master Bedroom Preview"
+                    src="/projects/project_bedroom_green_wardrobe.jpg"
+                    alt="Decor 4 Adore Bespoke Master Suite & Wardrobe"
                     fill
                     className="object-cover brightness-90 hover:scale-105 transition-transform duration-700"
                   />

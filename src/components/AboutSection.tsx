@@ -42,8 +42,8 @@ export default function AboutSection() {
               {/* Main Image */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/10 aspect-[4/5] bg-[#1a1417]">
                 <Image
-                  src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=85"
-                  alt="Decor 4 Adore Luxury Architectural Design"
+                  src="/projects/project_living_charcoal_fluted.jpg"
+                  alt="Decor 4 Adore Luxury Architectural Living Lounge"
                   fill
                   className="object-cover"
                 />

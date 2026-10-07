@@ -18,7 +18,7 @@ export const servicesData: ServiceItem[] = [
     fullDesc:
       "Transform cooking into an effortless luxury experience. Our modular kitchens are designed with optimal golden triangle ergonomics, hydraulic lift-ups, corner carousels, and premium water-resistant HDHMR substrates built to last a lifetime.",
     iconName: "UtensilsCrossed",
-    image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+    image: "/projects/project_modular_kitchen_dining.jpg",
     deliverables: [
       "L-Shape, U-Shape, Island & Parallel Layouts",
       "German BLUM / Häfele Soft-Close Hardware",
@@ -30,14 +30,14 @@ export const servicesData: ServiceItem[] = [
     id: "wardrobe-design",
     title: "Wardrobe Design",
     tagline: "Bespoke Storage with Haute-Couture Styling",
-    shortDesc: "Floor-to-ceiling walk-in closets, sliding tinted glass systems, and intelligent automated sensory lighting.",
+    shortDesc: "Floor-to-ceiling walk-in closets, sliding tinted glass systems, geometric lattice panels, and intelligent automated sensory lighting.",
     fullDesc:
       "Maximize storage while maintaining an uncluttered, opulent aesthetic. We craft customized walk-in wardrobes, lacquered glass sliding systems, dedicated jewelry drawers, and built-in vanity stations tailored to your daily rhythm.",
     iconName: "Layers",
-    image: "https://images.unsplash.com/photo-1558997519-83ea9252edf8?auto=format&fit=crop&w=800&q=80",
+    image: "/projects/project_bedroom_green_wardrobe.jpg",
     deliverables: [
       "Floor-to-Ceiling Max Storage Solutions",
-      "Smoked Fluted & Lacquered Glass Shutters",
+      "Geometric Lattice & Lacquered Glass Shutters",
       "Automated Motion-Sensor LED Rails",
       "Custom Accessory & Watch Organizers",
     ],
@@ -50,7 +50,7 @@ export const servicesData: ServiceItem[] = [
     fullDesc:
       "Eliminate guesswork with photorealistic 3D architectural renders. Walk through your future home in virtual reality, test different color palettes, lighting temperatures, and material finishes before a single nail is hammered.",
     iconName: "Box",
-    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&q=80",
+    image: "/projects/project_bedroom_arch_lighting.jpg",
     deliverables: [
       "Ultra-HD 4K Photorealistic Renders",
       "360° Virtual Reality Room Walkthroughs",
@@ -62,11 +62,11 @@ export const servicesData: ServiceItem[] = [
     id: "false-ceiling",
     title: "False Ceiling & Lighting",
     tagline: "Sculpted Architectural Ceilings & Mood Lighting",
-    shortDesc: "Cove lighting, gypsum multi-tier designs, magnetic track lights, acoustic wooden baffles, and smart automation.",
+    shortDesc: "Cove lighting, gypsum multi-tier designs, magnetic track lights, geometric channels, and smart automation.",
     fullDesc:
       "Ceilings are the fifth wall of your home. We engineer sophisticated false ceilings with Saint-Gobain Gyproc plasterboards, recessed architectural magnetic tracks, warm indirect coves, and acoustic treatments to create dramatic ambiance.",
     iconName: "Sparkles",
-    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+    image: "/projects/project_gold_showroom_ceiling.jpg",
     deliverables: [
       "Zero-Crack Saint-Gobain Gypsum Systems",
       "Magnetic Track & Architectural Spotlights",
@@ -82,7 +82,7 @@ export const servicesData: ServiceItem[] = [
     fullDesc:
       "Sit back and watch your dream space come to life. Decor 4 Adore handles everything: procurement, civil alterations, electrical schematics, false ceilings, furniture manufacturing, and final decor styling under a dedicated project manager.",
     iconName: "Hammer",
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+    image: "/projects/project_lounge_salon1.jpg",
     deliverables: [
       "Dedicated Site Engineer & Daily Progress Updates",
       "Strict Timeline Adherence with Penalty Clause",
@@ -98,7 +98,7 @@ export const servicesData: ServiceItem[] = [
     fullDesc:
       "Bring positivity, abundance, and peace into your home. Our certified Vaastu consultants work in tandem with our architects to optimize entry orientations, kitchen fire zones, master bedroom stability quadrants, and water flow elements.",
     iconName: "Compass",
-    image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
+    image: "/projects/project_bedroom_artistic_cove.jpg",
     deliverables: [
       "Scientific 16-Zone Energy Mapping",
       "Non-Destructive Vaastu Corrections",
